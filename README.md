@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End 
 
 Internet retail, also known as e-commerce, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. The goal of this project was to understand the fundamental architecture of these platforms.
 
