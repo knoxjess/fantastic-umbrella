@@ -20,4 +20,5 @@ Delete entries from the database
 
 ## walkthrough video
 
+[Untitled_ Mar 16, 2023 12_08 AM.webm](https://user-images.githubusercontent.com/110634800/225521200-cac088fe-de25-4e42-8c39-c4779769543a.webm)
 
